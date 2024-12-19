@@ -9,8 +9,9 @@ from fake_useragent import UserAgent
 
 # List of NIFTY 50 tickers
 nifty_50_tickers = [
-    "SUNPHARMA", "TCS", "TATACONSUM", "TATAMOTORS", "TATASTEEL",
-    "TECHM", "TITAN", "TRENT", "ULTRACEMCO", "WIPRO"
+    "ADANIENT", "ADANIPORTS", "APOLLOHOSP", "ASIANPAINT", "AXISBANK",
+    "BAJAJ-AUTO", "BAJFINANCE", "BAJAJFINSV", "BEL", "BPCL",
+    "BHARTIARTL", "BRITANNIA", "CIPLA", "COALINDIA", "DRREDDY",
 ]
 
 ua = UserAgent()
