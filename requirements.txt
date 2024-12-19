@@ -3,3 +3,4 @@ numpy
 streamlit
 beautifulsoup4
 aiohttp
+fake_useragent
